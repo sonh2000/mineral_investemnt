@@ -135,7 +135,7 @@ Provides a high-level comparison:
 * Silver Total Return %
 * Best Performer
 * Best Risk-Adjusted Asset
-![App Demo](images/demo.gif)
+![App Demo](overview.png)
 Charts:
 
 * Normalized Performance (Base = 100)
@@ -160,15 +160,15 @@ Charts:
 * Gold price (EGP)
 * USD/EGP exchange rate
 * Combined USD vs EGP comparison
-![App Demo](images/demo.gif)
+![App Demo](gold_analysis.png)
 ---
 
 ### ⚪ Silver Analysis Page
 
 Same structure as gold for direct comparison.
-![App Demo](images/demo.gif)
----
 
+---
+![App Demo](silver_analysis.png)
 ## 🎯 Key Insights Delivered
 
 This dashboard enables users to:
